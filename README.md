@@ -11,6 +11,7 @@ An applescript to view your assigned cards from Trello.
 ## Installation 
 ### Requirements
 * [JSON Helper for Applescript](https://itunes.apple.com/us/app/json-helper-for-applescript/id453114608?mt=12) - Lets the script get information from Trello
+
 ### Get your Trello App Credentials:
 * Download the [`GetTrelloCards.applescript`](https://github.com/drfuzzyness/Trello-GeekTool-Widget/raw/master/GetTrelloCards.applescript) and place it somewhere permanent. Preferably with your other GeekTool scripts.
 * Open the `GetTrelloCards.applescript` and get ready to set `theAppKey` and `theUserToken`
